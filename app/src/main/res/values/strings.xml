@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRUD_RegistroUsuarios</string>
+    <string name="tv_titulo">Registro de Usuarios</string>
+    <string name="et_documento">Documento</string>
+    <string name="et_nombres">Nombres</string>
+    <string name="et_apellidos">Apellidos</string>
+    <string name="et_usuario">Usuario</string>
+    <string name="et_contra">Contraseña</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_listar">Listar</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_eliminar">Eliminar</string>
+</resources>
