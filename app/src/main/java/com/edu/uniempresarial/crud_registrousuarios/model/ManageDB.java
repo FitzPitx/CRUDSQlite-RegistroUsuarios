@@ -14,7 +14,7 @@ public class ManageDB extends SQLiteOpenHelper {
             "usu_user varchar(35) NOT NULL," +
             "usu_names varchar(100) NOT NULL," +
             "usu_last_names varchar(100) NOT NULL," +
-            "usu_pass varchar(20) NOT NULL;" +
+            "usu_pass varchar(20) NOT NULL," +
             "usu_status INTEGER CHECK(usu_status IN (0,1)) NOT NULL);" ;
 
     private static final String DELETE_TABLE = "DROP TABLE IF EXISTS " + TABLE_USERS;
